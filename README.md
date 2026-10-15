@@ -164,3 +164,6 @@ All projects created for Aspiritech cybersecurity training program. Intended for
 - Connecting financial impact to security investment decisions
 - Understanding when to avoid, transfer, mitigate, or accept risks
 - Creating executive summaries for leadership decision-making
+
+**Sources:**
+- <a href="https://www.pivotpointsecurity.com/risk-tolerance-in-business/">Mitigate Risk: When to Avoid, Transfer, or Accept?</a>
