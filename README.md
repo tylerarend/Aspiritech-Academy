@@ -98,6 +98,12 @@ All projects created for Aspiritech cybersecurity training program. Intended for
 - Translating technical findings for non-technical stakeholders
 - Practical application of vulnerability management lifecycle
 
+**Sources:**
+- <a href="https://whatportis.com/ports/22-ssh">SSH — Port 22 (TCP/UDP) | WhatPortIs</a>
+- <a href="https://www.ssh.com/academy/malware">SSH Hack: Malware & Hackers Collect SSH Keys to Spread Attack</a>
+- <a href="https://whatportis.com/ports/3128-squid-proxy-http">Squid Proxy HTTP — Port 3128 (TCP) | WhatPortIs</a>
+- <a href="https://whatportis.com/ports/3333-network-caller-id">Network Caller ID — Port 3333 (TCP) | WhatPortIs</a>
+
 ---
 
 ### 3. Incident Response Plan — Ransomware at Riverdale Community Hospital
