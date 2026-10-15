@@ -67,6 +67,11 @@ All projects created for Aspiritech cybersecurity training program. Intended for
 - Evaluating threat actor sophistication beyond technical capabilities
 - Recognizing social engineering as a primary attack vector for decentralized groups
 
+**Sources:**
+- <a href="https://en.wikipedia.org/wiki/Anonymous_(hacker_group)">Anonymous (Hacker Group)</a>
+- <a href="https://www.crowdstrike.com/en-au/cybersecurity-101/threat-intelligence/hacktivism/">What is Hacktivism? | CrowdStrike</a>
+- <a href="https://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112122,00.html">Anonymous - 2012 TIME 100: The Most Influential People in the World - TIME</a>
+
 ---
 
 ### 2. Vulnerability Assessment Report — TryHackMe Lab
