@@ -42,16 +42,6 @@ In each document, **my original written analysis appears in red text**, while th
 
 ---
 
-## Getting Started
-
-To view these projects:
-
-1. Clone or download this repository
-2. Open individual `.docx` files in Microsoft Word, Google Docs, or compatible viewer
-3. Review each project sequentially for a complete workflow perspective (threat intel → vulnerability assessment → incident response → risk management)
-
----
-
 ## License
 
 All projects created for Aspiritech cybersecurity training program. Intended for portfolio and educational purposes only.
