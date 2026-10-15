@@ -130,6 +130,11 @@ All projects created for Aspiritech cybersecurity training program. Intended for
 - Identifying stakeholders for breach notification (law enforcement, patients, insurers, attorneys)
 - Understanding the distinction between containment and eradication phases
 
+**Sources:**
+- <a href="https://www.cisa.gov/sites/default/files/publications/Incident-Response-Plan-Basics_508c.pdf">Incident Response Plan (IRP) Basics</a>
+- <a href="https://www.ibm.com/think/topics/cyber-recovery-vs-disaster-recovery">Cyber Recovery vs. Disaster Recovery: What’s the difference? | IBM</a>
+- <a href="https://www.unitrends.com/blog/types-of-backup-full-incremental-differential/">Types of Backup: Full, Incremental, and Differential | Unitrends</a>
+
 ---
 
 ### 4. Risk Assessment & Register — PixelShop E-Commerce Company
